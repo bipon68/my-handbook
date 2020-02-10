@@ -1,6 +1,6 @@
 # my-handbook
 Learning
-# Know JavaScript Concepts for Level Up
+## Know JavaScript Concepts for Level Up
 
 |  | Article Name   |      Read       |  Blog Post |
 |----------|:-------------|:------:|:------:|
