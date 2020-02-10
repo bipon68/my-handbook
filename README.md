@@ -24,4 +24,7 @@ Learning
 | 5 | Bootstrap 4 | X | X |
 | 6 | Foundation | X | X |
 | 7 | Semantic | X | X |
-| 8 | HTML-CSS-Advanced-Topics | X | [CSS Advanced Topics](https://www.htmldog.com/guides/css/advanced/), [Advanced HTML CSS](https://learn.shayhowe.com/advanced-html-css/), [HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) |
+| 8 | At-rules | X | X |
+| 9 | CSSOM | X | X |
+| 10 | The Cascade | X | X |
+| 11 | HTML-CSS-Advanced-Topics | X | [CSS Advanced Topics](https://www.htmldog.com/guides/css/advanced/), [Advanced HTML CSS](https://learn.shayhowe.com/advanced-html-css/), [HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) |
