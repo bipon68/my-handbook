@@ -12,3 +12,16 @@ Learning
 | 6 | Prototypes and inheritance | X | X |
 | 7 | Functional programming | X | X |
 | 8 | Asynchronous javascript | X | X |
+
+## Know CSS Concepts for Level Up
+
+|  | Article Name   |      Read       |  Reference | 
+|----------|:-------------|:------:|:------:|
+| 1 | Flexbox | X | X |
+| 2 | CSS Grid | X | X |
+| 3 | CSS Preprocessor | X | X |
+| 4 | CSS Animation | X | X |
+| 5 | Bootstrap 4 | X | X |
+| 6 | Foundation | X | X |
+| 7 | Semantic | X | X |
+| 8 | [HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) | X | [CSS Advanced Topics](https://www.htmldog.com/guides/css/advanced/), [Advanced HTML CSS](https://learn.shayhowe.com/advanced-html-css/) |
