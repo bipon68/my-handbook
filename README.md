@@ -2,9 +2,9 @@
 Learning
 ## Know JavaScript Concepts for Level Up
 
-|  | Article Name   |      Read       |  Blog Post |
+|  | Article Name   |      Read       |  Blog Post | Reference |
 |----------|:-------------|:------:|:------:|
-| 1 | [hoisting](https://bipon.me/the-concept-of-hoisting-in-javascript/) |  | |
+| 1 | [hoisting](https://bipon.me/the-concept-of-hoisting-in-javascript/) |  | | |
 | 2 | Scope | X | X |
 | 3 | this keyword | X | X |
 | 4 | Closures and IIFE | X | X |
