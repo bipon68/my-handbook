@@ -12,6 +12,7 @@ Learning
 | 6 | Prototypes and inheritance | X | X |
 | 7 | Functional programming | X | X |
 | 8 | Asynchronous javascript | X | X |
+| 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6) |
 
 ## Know CSS Concepts for Level Up
 
