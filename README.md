@@ -22,7 +22,7 @@ Learning
 |----------|:-------------|:------:|:------:|
 | 1 | Flexbox | X | X |
 | 2 | CSS Grid | X | X |
-| 3 | CSS Preprocessor | X | [Stylus-Video](https://www.youtube.com/watch?v=eJahtnmywMI), [Stylus-Bengali](https://bit.ly/2SjFgWn) |
+| 3 | CSS Preprocessor | X | [Stylus-Video](https://www.youtube.com/watch?v=eJahtnmywMI), [Stylus-Bengali](https://bit.ly/2SjFgWn), [Sass](https://www.youtube.com/watch?v=fbVD32w1oTo&list=PL2CB1F80266E986EA) |
 | 4 | CSS Animation | X | X |
 | 5 | Bootstrap 4 | X | X |
 | 6 | Foundation | X | X |
