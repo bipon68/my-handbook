@@ -12,9 +12,8 @@ Learning
 | 6 | Prototypes and inheritance | X | X |
 | 7 | Functional programming | X | X |
 | 8 | Asynchronous javascript | X | X |
-| 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6) |
+| 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6),[ES6 Overview](https://ponyfoo.com/articles/es6) |
 | 10 | Regular Expressions | X | [Regular Expressions](https://scrimba.com/g/gregularexpressions) |
-| 11 | Introduction to TypeScript | X | [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) |
 
 ## Know CSS Concepts for Level Up
 
@@ -36,7 +35,7 @@ Learning
 
 |  | Article Name   |      Read       |  Reference | 
 |----------|:-------------|:------:|:------:|
-| 1 | TypeScript Fundamentals | X | X |
+| 1 | Introduction to TypeScript | X | [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) |
 | 2 | Angular Fundamentals | X | X |
 | 3 | Displaying Data and Handling Events | X | X |
 | 4 | Building Reusable Components | X | X |
