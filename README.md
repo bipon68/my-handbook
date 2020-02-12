@@ -1,19 +1,25 @@
 # my-handbook
 Learning
+## Table of Contents
+- [x] HTML/CSS
+- [x] JavaScript
+- [x] Angular
+
+
 ## Know JavaScript Concepts for Level Up
 
 |  | Article Name   |      Read       |  Reference | 
 |----------|:-------------|:------:|:------:|
-| 1 | [x][hoisting](https://bipon.me/the-concept-of-hoisting-in-javascript/) |  | [Variable Hoisting](https://codeburst.io/javascript-demystified-variable-hoisting-c3c4d2e8fd40) , [Function Hoisting](https://codeburst.io/javascript-demystified-02-function-hoisting-b83dcaeb265), [Hoisting Concepts in Bangla](https://bit.ly/2uC3eD4), [Gist Source Code](https://gist.github.com/bipon68/d0f014931653b0629a16b143c538d8e4)||
-| 2 | [ ]Scope | X | X |
-| 3 | [ ]this keyword | X | X |
-| 4 | [ ]Closures and IIFE | X | X |
-| 5 | [ ]new operator & constructor functions | X | X |
-| 6 | [ ]Prototypes and inheritance | X | X |
-| 7 | [ ]Functional programming | X | X |
-| 8 | [ ]Asynchronous javascript | X | X |
-| 9 | [ ]ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6),[ES6 Overview](https://ponyfoo.com/articles/es6) |
-| 10 | [ ]Regular Expressions | X | [Regular Expressions](https://scrimba.com/g/gregularexpressions) |
+| 1 | - [x][hoisting](https://bipon.me/the-concept-of-hoisting-in-javascript/) |  | [Variable Hoisting](https://codeburst.io/javascript-demystified-variable-hoisting-c3c4d2e8fd40) , [Function Hoisting](https://codeburst.io/javascript-demystified-02-function-hoisting-b83dcaeb265), [Hoisting Concepts in Bangla](https://bit.ly/2uC3eD4), [Gist Source Code](https://gist.github.com/bipon68/d0f014931653b0629a16b143c538d8e4)||
+| 2 | - [ ]Scope | X | X |
+| 3 | this keyword | X | X |
+| 4 | Closures and IIFE | X | X |
+| 5 | new operator & constructor functions | X | X |
+| 6 | Prototypes and inheritance | X | X |
+| 7 | Functional programming | X | X |
+| 8 | Asynchronous javascript | X | X |
+| 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6),[ES6 Overview](https://ponyfoo.com/articles/es6) |
+| 10 | Regular Expressions | X | [Regular Expressions](https://scrimba.com/g/gregularexpressions) |
 
 ## Know CSS Concepts for Level Up
 
