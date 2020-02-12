@@ -31,3 +31,19 @@ Learning
 | 9 | CSSOM (CSS Object Model) | X | [CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/),[CSSOM](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3/) |
 | 10 | [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) |  | [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance), [cascading](https://www.w3.org/TR/css-cascade-4/#cascading) |
 | 11 | HTML-CSS-Advanced-Topics | X | [CSS Advanced Topics](https://www.htmldog.com/guides/css/advanced/), [Advanced HTML CSS](https://learn.shayhowe.com/advanced-html-css/), [HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) |
+
+## Know Angular Concepts for Level Up
+
+|  | Article Name   |      Read       |  Reference | 
+|----------|:-------------|:------:|:------:|
+| 1 | Modules | X | X |
+| 2 | Components | X | X |
+| 3 | Templates | X | X |
+| 4 | Metadata | X | X |
+| 5 | Data Binding | X | X |
+| 6 | Directive | X | X |
+| 7 | Services | X | X |
+| 8 | Dependency Injection | X | X |
+| 9 | Become an Effective Angular Developer | X | [Become an Effective Angular Developer](https://bit.ly/2OMnoBm) |
+| 10 | Angular 8 Series Article | X | [Day 1](https://bit.ly/2OMm01C) |
+| 11 | Angular 8 | X | [Angular 8](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
