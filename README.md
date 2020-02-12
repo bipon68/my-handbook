@@ -22,12 +22,12 @@ Learning
 |----------|:-------------|:------:|:------:|
 | 1 | Flexbox | X | X |
 | 2 | CSS Grid | X | X |
-| 3 | CSS Preprocessor | X | X |
+| 3 | CSS Preprocessor | X | [Stylus-Video](https://www.youtube.com/watch?v=eJahtnmywMI), [Stylus-Bengali](https://bit.ly/2SjFgWn) |
 | 4 | CSS Animation | X | X |
 | 5 | Bootstrap 4 | X | X |
 | 6 | Foundation | X | X |
 | 7 | Semantic | X | X |
 | 8 | At-rules | X | X |
-| 9 | CSSOM | X | X |
-| 10 | [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) |  | [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) |
+| 9 | CSSOM (CSS Object Model) | X | [CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/),[CSSOM](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3/) |
+| 10 | [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) |  | [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance), [cascading](https://www.w3.org/TR/css-cascade-4/#cascading) |
 | 11 | HTML-CSS-Advanced-Topics | X | [CSS Advanced Topics](https://www.htmldog.com/guides/css/advanced/), [Advanced HTML CSS](https://learn.shayhowe.com/advanced-html-css/), [HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) |
