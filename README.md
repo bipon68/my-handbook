@@ -36,14 +36,34 @@ Learning
 
 |  | Article Name   |      Read       |  Reference | 
 |----------|:-------------|:------:|:------:|
-| 1 | Modules | X | X |
-| 2 | Components | X | X |
-| 3 | Templates | X | X |
-| 4 | Metadata | X | X |
-| 5 | Data Binding | X | X |
-| 6 | Directive | X | X |
-| 7 | Services | X | X |
-| 8 | Dependency Injection | X | X |
-| 9 | Become an Effective Angular Developer | X | [Become an Effective Angular Developer](https://bit.ly/2OMnoBm) |
-| 10 | Angular 8 Series Article | X | [Day 1](https://bit.ly/2OMm01C) |
-| 11 | Angular 8 | X | [Angular 8](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
+| 1 | TypeScript Fundamentals | X | X |
+| 2 | Angular Fundamentals | X | X |
+| 3 | Displaying Data and Handling Events | X | X |
+| 4 | Building Reusable Components | X | X |
+| 5 | Directives | X | X |
+| 6 | Template-driven Forms | X | X |
+| 7 | Reactive Forms | X | X |
+| 8 | Consuming HTTP Services | X | X |
+| 9 | Routing and Navigation | X | X |
+| 10 | Become an Effective Angular Developer | X | [Become an Effective Angular Developer](https://bit.ly/2OMnoBm) |
+| 11 | Angular 8 Series Article | X | [Day 1](https://bit.ly/2OMm01C) |
+| 12 | Angular 8 | X | [Angular 8-Video-Codevolution](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) |
+| 13 | Modular Angular Architecture | X | X |
+| 14 | One-way Dataflow and Immutability | X | X |
+| 15 | Attribute and Structural Directives | X | X |
+| 16 | Component Life Cycle Hooks | X | X |
+| 17 | Http and Observable Services | X | X |
+| 18 | Smart/Dumb Component Architecture | X | X |
+| 19 | Application Structure and Best Practices | X | X |
+| 20 | Template Binding Syntax | X | X |
+| 21 | Feature Modules and Routing | X | X |
+| 22 | Forms and Validation (Reactive Forms and Validators) | X | X |
+| 23 | Content Projection | X | X |
+| 24 | onPush Change Detection | X | X |
+| 25 | Route Guards, Pre-loads, Lazy-loading | X | X |
+| 26 | Custom Pipes | X | X |
+| 27 | @viewChild and @ContentChild Decorators | X | X |
+| 28 | Dynamic Components and ng-template | X | X |
+| 29 | @Host @Hostbinding and exportAs | X | X |
+| 30 | State Management with RxJs | X | X |
+| 31 | Dependency Injection and Zones | X | X |
