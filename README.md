@@ -6,7 +6,7 @@ Learning
 - [ ] Angular
 
 
-## Know JavaScript Concepts for Level Up
+### Know JavaScript Concepts for Level Up
 
 |  | Article Name   |      Read       |  Reference | 
 |----------|:-------------|:------:|:------:|
@@ -21,7 +21,7 @@ Learning
 | 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6),[ES6 Overview](https://ponyfoo.com/articles/es6) |
 | 10 | Regular Expressions | X | [Regular Expressions](https://scrimba.com/g/gregularexpressions) |
 
-## Know CSS Concepts for Level Up
+### Know CSS Concepts for Level Up
 
 |  | Article Name   |      Read       |  Reference | 
 |----------|:-------------|:------:|:------:|
@@ -38,7 +38,7 @@ Learning
 | 11 | HTML-CSS-Advanced-Topics | X | [CSS Advanced Topics](https://www.htmldog.com/guides/css/advanced/), [Advanced HTML CSS](https://learn.shayhowe.com/advanced-html-css/), [HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) |
 | 12 | Tools | X | [prepros](https://prepros.io/) |
 
-## Know Angular Concepts for Level Up
+### Know Angular Concepts for Level Up
 
 |  | Article Name   |      Read       |  Reference | 
 |----------|:-------------|:------:|:------:|
