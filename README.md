@@ -73,3 +73,11 @@ Learning
 | 29 | @Host @Hostbinding and exportAs | X | X |
 | 30 | State Management with RxJs | X | X |
 | 31 | Dependency Injection and Zones | X | X |
+
+
+### Know Others Concepts for Level Up
+
+|  | Article Name   |      Read       |  Reference | 
+|----------|:-------------|:------:|:------:|
+| 1 | How To Become A Web Developer In 2020 | X| [Become A Web Developer](https://www.youtube.com/watch?v=v0Bkxc3YeIc)|
+| 2 | Build A REST API With Node.js, Express, & MongoDB - Quick | X | [Build A REST API](https://www.youtube.com/watch?time_continue=26&v=fgTGADljAeg) |
