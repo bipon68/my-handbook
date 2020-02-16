@@ -83,3 +83,4 @@ Learning
 |----------|:-------------|:------:|:------:|
 | 1 | How To Become A Web Developer In 2020 | X| [Become A Web Developer](https://www.youtube.com/watch?v=v0Bkxc3YeIc)|
 | 2 | Build A REST API With Node.js, Express, & MongoDB - Quick | X | [Build A REST API](https://www.youtube.com/watch?time_continue=26&v=fgTGADljAeg) |
+| 3 | Get Started With JavaScript - Series | X| [Get Started With JavaScript](https://bit.ly/2weBll1)|
