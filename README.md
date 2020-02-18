@@ -39,6 +39,7 @@ Learning
 | 11 | HTML-CSS-Advanced-Topics | X | [CSS Advanced Topics](https://www.htmldog.com/guides/css/advanced/), [Advanced HTML CSS](https://learn.shayhowe.com/advanced-html-css/), [HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) |
 | 12 | Tools | X | [prepros](https://prepros.io/) |
 | 13 | Boilerplate |  | [Skeleton ](http://getskeleton.com/) |
+| 14 | CSS Variables |  | [CSS Variables ](https://bit.ly/39HQJ88),[CSS Variables-Kevin Powell](https://bit.ly/2wjwbUR) |
 
 ### Know Angular Concepts for Level Up
 
@@ -84,3 +85,9 @@ Learning
 | 1 | How To Become A Web Developer In 2020 | X| [Become A Web Developer](https://www.youtube.com/watch?v=v0Bkxc3YeIc)|
 | 2 | Build A REST API With Node.js, Express, & MongoDB - Quick | X | [Build A REST API](https://www.youtube.com/watch?time_continue=26&v=fgTGADljAeg) |
 | 3 | Get Started With JavaScript - Series | X| [Get Started With JavaScript](https://bit.ly/2weBll1)|
+
+### Project for Level Up
+
+|  | Project Name   |      Read       |  Reference | 
+|----------|:-------------|:------:|:------:|
+| 1 | JavaScript BookList App | X| [JavaScript BookList App](https://www.youtube.com/watch?v=JaMCxVWtW58)|
