@@ -88,7 +88,7 @@ Learning
 | 3 | Get Started With JavaScript - Series | X| [Get Started With JavaScript](https://bit.ly/2weBll1)|
 | 4 | JavaScript DOM Crash Course - Series | X| [JavaScript DOM](https://bit.ly/2V7qnsd),[DOM-Bengali](https://bit.ly/2SBuCu5)|
 | 5 | Bangla tutorial | X| [Bangla tutorial](https://github.com/nuhil/bangla-programming-resources),[Programming-Problem-In-Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali)|
-
+| 6 | Basic level JavaScript programs | X| [Basic level JavaScript programs](https://bit.ly/39UWMGD)|
 
 ### Project for Level Up
 
