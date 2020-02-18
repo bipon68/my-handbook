@@ -29,14 +29,14 @@ Learning
 |----------|:-------------|:------:|:------:|
 | 1 | Flexbox | X | [Flexbox](https://scrimba.com/g/gflexbox) |
 | 2 | CSS Grid | X | [css grid-video](https://www.youtube.com/watch?v=9zBsdzdE4sM),[css grid](https://scrimba.com/g/gR8PTE),[ayouts Using CSS Grid](https://www.youtube.com/watch?v=HgwCeNVPlo0) |
-| 3 | CSS Preprocessor | X | [Stylus Official](http://stylus-lang.com/),[Stylus-Video](https://www.youtube.com/watch?v=eJahtnmywMI), [Stylus-Bengali](https://bit.ly/2SjFgWn), [Sass-Video](https://www.youtube.com/watch?v=fbVD32w1oTo&list=PL2CB1F80266E986EA),[Learn Sass In 20 Minutes](https://bit.ly/3bIumkM) |
+| 3 | CSS Preprocessor | X | [Stylus Official](http://stylus-lang.com/),[Stylus-Video](https://www.youtube.com/watch?v=eJahtnmywMI), [Stylus-Bengali](https://bit.ly/2SjFgWn), [Sass-Video](https://bit.ly/37CGYqr),[Learn Sass In 20 Minutes](https://bit.ly/3bIumkM) |
 | 4 | CSS Animation | X | X |
 | 5 | Bootstrap 4 | X | X |
 | 6 | Foundation | X | X |
 | 7 | Semantic | X | X |
 | 8 | At-rules | X | X |
-| 9 | CSSOM (CSS Object Model) | X | [CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/),[CSSOM](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3/) |
-| 10 | [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) |  | [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance), [cascading](https://www.w3.org/TR/css-cascade-4/#cascading) |
+| 9 | CSSOM (CSS Object Model) | X | [CSS Object Model (CSSOM)](https://bit.ly/3bWHe70),[CSSOM](https://bit.ly/32frzeF) |
+| 10 | [The Cascade](https://mzl.la/2V1NW5G) |  | [Cascade and inheritance](https://mzl.la/38EFWez), [cascading](https://www.w3.org/TR/css-cascade-4/#cascading) |
 | 11 | HTML-CSS-Advanced-Topics | X | [CSS Advanced Topics](https://www.htmldog.com/guides/css/advanced/), [Advanced HTML CSS](https://learn.shayhowe.com/advanced-html-css/), [HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) |
 | 12 | Tools | X | [prepros](https://prepros.io/) |
 | 13 | Boilerplate |  | [Skeleton ](http://getskeleton.com/) |
@@ -87,7 +87,7 @@ Learning
 | 2 | Build A REST API With Node.js, Express, & MongoDB - Quick | X | [Build A REST API](https://www.youtube.com/watch?time_continue=26&v=fgTGADljAeg) |
 | 3 | Get Started With JavaScript - Series | X| [Get Started With JavaScript](https://bit.ly/2weBll1)|
 | 4 | JavaScript DOM Crash Course - Series | X| [JavaScript DOM](https://bit.ly/2V7qnsd),[DOM-Bengali](https://bit.ly/2SBuCu5)|
-| 5 | Bangla tutorial | X| [Bangla tutorial](https://github.com/nuhil/bangla-programming-resources)|
+| 5 | Bangla tutorial | X| [Bangla tutorial](https://github.com/nuhil/bangla-programming-resources),[Programming-Problem-In-Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali)|
 
 
 ### Project for Level Up
