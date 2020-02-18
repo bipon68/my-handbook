@@ -5,6 +5,7 @@ Learning
 - [ ] HTML/CSS
 - [ ] Angular
 - [ ] Others
+- [ ] Project
 
 
 ### Know JavaScript Concepts for Level Up
@@ -19,7 +20,7 @@ Learning
 | 6 | Prototypes and inheritance | X | X |
 | 7 | Functional programming | X | X |
 | 8 | Asynchronous javascript | X | X |
-| 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6),[ES6 Overview](https://ponyfoo.com/articles/es6) |
+| 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6),[ES6 Overview](https://ponyfoo.com/articles/es6),[JavaScript ES6](https://bit.ly/2HuvPNA) |
 | 10 | Regular Expressions | X | [Regular Expressions](https://scrimba.com/g/gregularexpressions) |
 
 ### Know CSS Concepts for Level Up
@@ -85,6 +86,9 @@ Learning
 | 1 | How To Become A Web Developer In 2020 | X| [Become A Web Developer](https://www.youtube.com/watch?v=v0Bkxc3YeIc)|
 | 2 | Build A REST API With Node.js, Express, & MongoDB - Quick | X | [Build A REST API](https://www.youtube.com/watch?time_continue=26&v=fgTGADljAeg) |
 | 3 | Get Started With JavaScript - Series | X| [Get Started With JavaScript](https://bit.ly/2weBll1)|
+| 4 | JavaScript DOM Crash Course - Series | X| [JavaScript DOM](https://bit.ly/2V7qnsd),[DOM-Bengali](https://bit.ly/2SBuCu5)|
+| 5 | Bangla tutorial | X| [Bangla tutorial](https://github.com/nuhil/bangla-programming-resources)|
+
 
 ### Project for Level Up
 
