@@ -90,7 +90,7 @@ Learning
 |----------|:-------------|:------:|:------:|
 | 1 | How To Become A Web Developer In 2020 | X| [Become A Web Developer](https://www.youtube.com/watch?v=v0Bkxc3YeIc)|
 | 2 | Build A REST API With Node.js, Express, & MongoDB - Quick | X | [Build A REST API](https://www.youtube.com/watch?time_continue=26&v=fgTGADljAeg) |
-| 3 | Get Started With JavaScript - Series | X| [Get Started With JavaScript](https://bit.ly/2weBll1)|
+| 3 | Get Started With JavaScript - Series | X| [Get Started With JavaScript](https://bit.ly/2weBll1),[Javascript Tutorial](https://bit.ly/2vQ4SkW)|
 | 4 | JavaScript DOM Crash Course - Series | X| [JavaScript DOM](https://bit.ly/2V7qnsd),[DOM-Bengali](https://bit.ly/2SBuCu5)|
 | 5 | Bangla tutorial | X| [Bangla tutorial](https://github.com/nuhil/bangla-programming-resources),[Programming-Problem-In-Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali)|
 | 6 | Basic level JavaScript programs | X| [Basic level JavaScript programs](https://bit.ly/39UWMGD)|
