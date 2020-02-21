@@ -41,6 +41,7 @@ Learning
 | 12 | Tools | X | [prepros](https://prepros.io/) |
 | 13 | Boilerplate |  | [Skeleton ](http://getskeleton.com/) |
 | 14 | CSS Variables |  | [CSS Variables ](https://bit.ly/39HQJ88),[CSS Variables-Kevin Powell](https://bit.ly/2wjwbUR) |
+| 15 | CSS Specificity | X | [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/),[CSS Specificity: Things You Should Know](https://bit.ly/39PQNTi) |
 
 ### Know Angular Concepts for Level Up
 
