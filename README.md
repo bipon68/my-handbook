@@ -7,7 +7,7 @@ Learning
 - [ ] Others
 - [ ] Project
 
-** Mission - 2020 **
+**Mission - 2020**
 - [ ] Angular
 - [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
 
