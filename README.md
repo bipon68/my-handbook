@@ -7,6 +7,10 @@ Learning
 - [ ] Others
 - [ ] Project
 
+** Mission - 2020 **
+- [ ] Angular
+- [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
+
 
 ### Know JavaScript Concepts for Level Up
 
