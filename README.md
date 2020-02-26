@@ -27,6 +27,8 @@ Learning
 | 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6),[ES6 Overview](https://ponyfoo.com/articles/es6),[JavaScript ES6](https://bit.ly/2HuvPNA) |
 | 10 | Regular Expressions | X | [Regular Expressions](https://scrimba.com/g/gregularexpressions) |
 
+
+
 ### Know CSS Concepts for Level Up
 
 |  | Article Name   |      Read       |  Reference | 
@@ -36,7 +38,7 @@ Learning
 | 3 | CSS Preprocessor | X | [Stylus Official](http://stylus-lang.com/),[Stylus-Video](https://www.youtube.com/watch?v=eJahtnmywMI), [Stylus-Bengali](https://bit.ly/2SjFgWn), [Sass-Video](https://bit.ly/37CGYqr),[Learn Sass In 20 Minutes](https://bit.ly/3bIumkM) |
 | 4 | CSS Animation | X | X |
 | 5 | Bootstrap 4 | X | X |
-| 6 | Foundation | X | X |
+| 6 | Foundation | X | [Build A Website With Foundation and Sass](https://bit.ly/32rYsVf) |
 | 7 | Semantic | X | X |
 | 8 | At-rules | X | X |
 | 9 | CSSOM (CSS Object Model) | X | [CSS Object Model (CSSOM)](https://bit.ly/3bWHe70),[CSSOM](https://bit.ly/32frzeF) |
@@ -102,3 +104,11 @@ Learning
 |  | Project Name   |      Read       |  Reference | 
 |----------|:-------------|:------:|:------:|
 | 1 | JavaScript BookList App | X| [JavaScript BookList App](https://www.youtube.com/watch?v=JaMCxVWtW58)|
+
+### Know Data Structures and Algorithms Concepts for Level Up
+
+|  | Article Name   |      Read       |  Reference | 
+|----------|:-------------|:------:|:------:|
+| 1 | Data Structures and Algorithms |  | [Data Structures and Algorithms in Benglai](https://bit.ly/2uABgb6)|
+| 2 | Dummy 1 | X | X |
+| 3 | Dummy 2 | X | X |
