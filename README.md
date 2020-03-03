@@ -112,5 +112,5 @@ Learning
 |  | Article Name   |      Read       |  Reference | 
 |----------|:-------------|:------:|:------:|
 | 1 | Data Structures and Algorithms |  | [Data Structures and Algorithms in Benglai](https://bit.ly/2uABgb6),[Data Structure](https://bit.ly/32rLp6b)|
-| 2 | Dummy 1 | X | X |
+| 2 | Data Structures and Algorithms in JavaScript - FreeCodeCamp | X | [Data Structures and Algorithms in JavaScript - FreeCodeCamp](https://www.youtube.com/watch?v=t2CEgPsws3U) |
 | 3 | Dummy 2 | X | X |
