@@ -10,7 +10,7 @@ Learning
 **Mission - 2020**
 - [ ] Angular
 - [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
-- [ ] Create NPM package
+- [ ] Style Guide (Angular, HTML/CSS)
 
 
 ### Know JavaScript Concepts for Level Up
@@ -50,7 +50,7 @@ Learning
 | 14 | CSS Variables |  | [CSS Variables ](https://bit.ly/39HQJ88),[CSS Variables-Kevin Powell](https://bit.ly/2wjwbUR) |
 | 15 | CSS Specificity | X | [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/),[CSS Specificity: Things You Should Know](https://bit.ly/39PQNTi) |
 | 16 | SVG | X | [SVG](https://bit.ly/2HSb2DH),[CSS SVG Animation](https://bit.ly/392zbDu) |
-| 5 | How Browsers Work | X | [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) |
+| 17 | How Browsers Work | X | [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) |
 
 ### Know Angular Concepts for Level Up
 
@@ -87,6 +87,9 @@ Learning
 | 29 | @Host @Hostbinding and exportAs | X | X |
 | 30 | State Management with RxJs | X | X |
 | 31 | Dependency Injection and Zones | X | X |
+| 32 | RxJS | X | [RxJS](https://bit.ly/33jeJMB) |
+| 33 | Angular Series Video | X | [Angular Tutorial Videos | Edureka](https://bit.ly/2Wt1O9u) |
+
 
 
 ### Know Others Concepts for Level Up
