@@ -103,6 +103,10 @@ Learning
 | 5 | Bangla tutorial | X| [Bangla tutorial](https://github.com/nuhil/bangla-programming-resources),[Programming-Problem-In-Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali)|
 | 6 | Basic level JavaScript programs | X| [Basic level JavaScript programs](https://bit.ly/39UWMGD)|
 | 7 | vanilla javascript dom project | X| [vanilla javascript dom project](https://www.youtube.com/results?search_query=vanilla+javascript+dom+project)|
+| 8 | 16-Bit Virtual Machine | X| [16-Bit Virtual Machine in JavaScript](https://bit.ly/2RcA7yA)|
+| 9 | Angular - GraphQL | X| [Apollo Client For Angular - Making Use of GraphQL](https://www.youtube.com/watch?v=dp_64aX_6jI), [GraphQL-Authentication](https://www.howtographql.com/angular-apollo/5-authentication/)|
+| 10 | HTML5 APIs | X| [HTML5 APIs](https://bit.ly/2y1fkHy)|
+
 
 ### Project for Level Up
 
