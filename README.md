@@ -123,7 +123,8 @@ Learning
 | 8 | 16-Bit Virtual Machine | X| [16-Bit Virtual Machine in JavaScript](https://bit.ly/2RcA7yA)|
 | 9 | Angular - GraphQL | X| [Apollo Client For Angular - Making Use of GraphQL](https://www.youtube.com/watch?v=dp_64aX_6jI), [GraphQL-Authentication](https://www.howtographql.com/angular-apollo/5-authentication/)|
 | 10 | HTML5 APIs | X| [HTML5 APIs](https://bit.ly/2y1fkHy)|
-| 11 | Fake Rest API with JSON_Server | X| [Fake Rest API](https://www.youtube.com/watch?v=md3sSgvzSss&t=127s)|
+| 11 | Fake Rest API with JSON_Server | X| [Fake Rest API - Bengali](https://www.youtube.com/watch?v=md3sSgvzSss&t=127s)|
+| 12 | Rest API | X| [Fake Rest API - Bengali](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCeyQE1bi8dQHaITIT0FbsM)|
 
 
 
