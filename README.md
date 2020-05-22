@@ -27,6 +27,8 @@ Learning
 | 8 | Asynchronous javascript | X | X |
 | 9 | ES6 | X | [ES6](https://scrimba.com/g/gintrotoes6),[ES6 Overview](https://ponyfoo.com/articles/es6),[JavaScript ES6](https://bit.ly/2HuvPNA) |
 | 10 | Regular Expressions | X | [Regular Expressions](https://scrimba.com/g/gregularexpressions) |
+| 11 | Algorithms and data structures in JavaScript | X | [Algorithms and data structures in JavaScript](https://github.com/trekhleb/javascript-algorithms) |
+
 
 
 
@@ -89,6 +91,21 @@ Learning
 | 31 | Dependency Injection and Zones | X | X |
 | 32 | RxJS | X | [RxJS](https://bit.ly/33jeJMB) |
 | 33 | Angular Series Video | X | [Angular Tutorial Videos | Edureka](https://bit.ly/2Wt1O9u) |
+| 34 | Angular Series Video | X | [Angular 6 Tutorial | codedamn](https://www.youtube.com/watch?v=UoVytwPk3iA&list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) |
+
+
+### Know React Concepts for Level Up
+
+|  | Article Name   |      Read       |  Reference | 
+|----------|:-------------|:------:|:------:|
+| 1 | React CRUD, MongoDB, Node, Express | X | [React CRUD](https://www.youtube.com/watch?v=qvBZevK1HPo&list=PL2dKqfImstaRbG8WIBkeHyV1ic5dyiEMj&index=1) |
+| 2 | Learn React | X | [Learn React](https://scrimba.com/course/glearnreact) |
+| 3 | ReactJS Tutorial | X | [ReactJS Tutorial](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
+| 4 | React Redux Tutorials | X | [React Redux Tutorials](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
+| 5 | React Hooks Tutorial | X | [React Hooks Tutorial](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A) |
+
+
+
 
 
 
@@ -106,6 +123,8 @@ Learning
 | 8 | 16-Bit Virtual Machine | X| [16-Bit Virtual Machine in JavaScript](https://bit.ly/2RcA7yA)|
 | 9 | Angular - GraphQL | X| [Apollo Client For Angular - Making Use of GraphQL](https://www.youtube.com/watch?v=dp_64aX_6jI), [GraphQL-Authentication](https://www.howtographql.com/angular-apollo/5-authentication/)|
 | 10 | HTML5 APIs | X| [HTML5 APIs](https://bit.ly/2y1fkHy)|
+| 11 | Fake Rest API with JSON_Server | X| [Fake Rest API](https://www.youtube.com/watch?v=md3sSgvzSss&t=127s)|
+
 
 
 ### Project for Level Up
