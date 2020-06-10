@@ -104,9 +104,19 @@ Learning
 | 4 | React Redux Tutorials | X | [React Redux Tutorials](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | 5 | React Hooks Tutorial | X | [React Hooks Tutorial](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A) |
 
+### React Learning Path in 2020
 
-
-
+**Fundamentals**
+- [ ] Create React App
+- [ ] Function Components
+- [ ] Class Components
+- [ ] JSX
+- [ ] Props and State
+- [ ] useState and useEffect
+- [ ] setState and Component Lifecyle Methods
+- [ ] Conditional Rendering
+- [ ] Lists and Keys
+- [ ] Building Simple Forms
 
 
 ### Know Others Concepts for Level Up
