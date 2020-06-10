@@ -128,6 +128,15 @@ Learning
 - [ ] HTTP Request (GET, POST)
 - [ ] Hooks (useContext, useReducer, useRef, useMemo, userCallback, Custom Hooks)
 
+**Ecosystem**
+- [ ] State Management (Redux/Mobx, Apollo, graphQL)
+- [ ] Routing (React Router)
+- [ ] Styling (Styled Components/Emotion, Tailwind CSS, Chakra UI / Materail UI , Ant Design )
+- [ ] Forms (Formik, React Hook Form)
+- [ ] Testing (Jest + React Testing Library, Cypress)
+- [ ] Misc (TypeScript, StoryBook, React i18Next, Firebase, Practical React Libraries)
+- [ ] Next Steps (Gatsby, Next.js, React Native) 
+
 
 ### Know Others Concepts for Level Up
 
