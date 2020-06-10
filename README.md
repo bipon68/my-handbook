@@ -118,6 +118,16 @@ Learning
 - [ ] Lists and Keys
 - [ ] Building Simple Forms
 
+**Advanced Topics**
+- [ ] Context (which solves the problem of prop drilling you will then come across higher order components)
+- [ ] Higher Order Components
+- [ ] Render Props
+- [ ] Refs
+- [ ] Error Boundaries
+- [ ] Portals
+- [ ] HTTP Request (GET, POST)
+- [ ] Hooks (useContext, useReducer, useRef, useMemo, userCallback, Custom Hooks)
+
 
 ### Know Others Concepts for Level Up
 
