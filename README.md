@@ -107,14 +107,14 @@ Learning
 ### React Learning Path in 2020
 
 **Fundamentals**
-- [ ] Create React App
-- [ ] Function Components
-- [ ] Class Components
-- [ ] JSX
-- [ ] Props and State
+- [x] Create React App
+- [x] Function Components
+- [x] Class Components
+- [x] JSX
+- [x] Props and State
 - [ ] useState and useEffect
 - [ ] setState and Component Lifecyle Methods
-- [ ] Conditional Rendering
+- [x] Conditional Rendering
 - [ ] Lists and Keys
 - [ ] Building Simple Forms
 
