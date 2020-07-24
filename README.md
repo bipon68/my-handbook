@@ -103,6 +103,8 @@ Learning
 | 3 | ReactJS Tutorial | X | [ReactJS Tutorial](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) |
 | 4 | React Redux Tutorials | X | [React Redux Tutorials](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) |
 | 5 | React Hooks Tutorial | X | [React Hooks Tutorial](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A) |
+| 6 | React App - Breaking Bad API (Hooks) | X| [React App - Breaking Bad API](https://www.youtube.com/watch?v=YaioUnMw0mo)|
+| 7 | Build a GitHub Jobs App With React Hooks | X| [Build a GitHub Jobs App With React Hooks](https://www.youtube.com/watch?v=fxY1q4SCB64)|
 
 ### React Learning Path in 2020
 
@@ -115,7 +117,7 @@ Learning
 - [ ] useState and useEffect
 - [ ] setState and Component Lifecyle Methods
 - [x] Conditional Rendering
-- [ ] Lists and Keys
+- [x] Lists and Keys
 - [ ] Building Simple Forms
 
 **Advanced Topics**
@@ -125,7 +127,7 @@ Learning
 - [ ] Refs
 - [ ] Error Boundaries
 - [ ] Portals
-- [ ] HTTP Request (GET, POST)
+- [x] HTTP Request (GET, POST, DELETE, PUT)
 - [ ] Hooks (useContext, useReducer, useRef, useMemo, userCallback, Custom Hooks)
 
 **Ecosystem**
@@ -157,6 +159,7 @@ Learning
 | 13 | Deno Crash Course and Rest API | X| [Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM&t=8s)|
 | 14 | Full Stack React & LoopBack | X| [Full Stack React & LoopBack](https://www.youtube.com/watch?v=Mx-cywTNy8s&t=13s)|
 | 15 | Build and Publish a Custom React Hook Package on npm | X| [Build and Publish](https://www.youtube.com/watch?v=mWCrzUGkGKQ&feature=youtu.be&app=desktop)|
+
 
 
 
