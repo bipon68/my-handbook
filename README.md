@@ -105,6 +105,7 @@ Learning
 | 5 | React Hooks Tutorial | X | [React Hooks Tutorial](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A) |
 | 6 | React App - Breaking Bad API (Hooks) | X| [React App - Breaking Bad API](https://www.youtube.com/watch?v=YaioUnMw0mo)|
 | 7 | Build a GitHub Jobs App With React Hooks | X| [Build a GitHub Jobs App With React Hooks](https://www.youtube.com/watch?v=fxY1q4SCB64)|
+| 8 | Build a Pokemon App | React & GraphQL | X| [Build a GitHub Jobs App With React Hooks](shorturl.at/lpJ06)|
 
 ### React Learning Path in 2020
 
