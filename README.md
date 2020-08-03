@@ -4,10 +4,12 @@ Learning
 - [ ] JavaScript
 - [ ] HTML/CSS
 - [ ] Angular
+- [ ] React
 - [ ] Others
 - [ ] Project
 
 **Mission - 2020**
+- [ ] React
 - [ ] Angular
 - [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
 - [ ] Style Guide (Angular, HTML/CSS)
@@ -105,7 +107,9 @@ Learning
 | 5 | React Hooks Tutorial | X | [React Hooks Tutorial](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A) |
 | 6 | React App - Breaking Bad API (Hooks) | X| [React App - Breaking Bad API](https://www.youtube.com/watch?v=YaioUnMw0mo)|
 | 7 | Build a GitHub Jobs App With React Hooks | X| [Build a GitHub Jobs App With React Hooks](https://www.youtube.com/watch?v=fxY1q4SCB64)|
-| 8 | Build a Pokemon App | React & GraphQL | X| [Build a GitHub Jobs App With React Hooks](shorturl.at/lpJ06)|
+| 8 | Build a Pokemon App | React & GraphQL | X| [Build a GitHub Jobs App With React Hooks](https://www.youtube.com/watch?v=yKFoAF7J0mc&list=PLpP9FLMkNf5575QcEckdloh4jtyJAnOwn&index=4)|
+| 9 | React Hooks Tutorial(Codevolution) | X| [React Hooks Tutorial](https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A)|
+
 
 ### React Learning Path in 2020
 
