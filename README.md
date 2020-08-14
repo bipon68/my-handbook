@@ -123,7 +123,7 @@ Learning
 - [ ] setState and Component Lifecyle Methods
 - [x] Conditional Rendering
 - [x] Lists and Keys
-- [ ] Building Simple Forms
+- [x] Building Simple Forms
 
 **Advanced Topics**
 - [ ] Context (which solves the problem of prop drilling you will then come across higher order components)
@@ -137,7 +137,7 @@ Learning
 
 **Ecosystem**
 - [ ] State Management (Redux/Mobx, Apollo, graphQL)
-- [ ] Routing (React Router)
+- [x] Routing (React Router)
 - [ ] Styling (Styled Components/Emotion, Tailwind CSS, Chakra UI / Materail UI , Ant Design )
 - [ ] Forms (Formik, React Hook Form)
 - [ ] Testing (Jest + React Testing Library, Cypress)
@@ -164,6 +164,8 @@ Learning
 | 13 | Deno Crash Course and Rest API | X| [Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM&t=8s)|
 | 14 | Full Stack React & LoopBack | X| [Full Stack React & LoopBack](https://www.youtube.com/watch?v=Mx-cywTNy8s&t=13s)|
 | 15 | Build and Publish a Custom React Hook Package on npm | X| [Build and Publish](https://www.youtube.com/watch?v=mWCrzUGkGKQ&feature=youtu.be&app=desktop)|
+| 16 | Building a RESTful API with Node.js | X| [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)|
+
 
 
 
