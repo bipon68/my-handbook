@@ -94,6 +94,8 @@ Learning
 | 32 | RxJS | X | [RxJS](https://bit.ly/33jeJMB) |
 | 33 | Angular Series Video | X | [Angular Tutorial Videos | Edureka](https://bit.ly/2Wt1O9u) |
 | 34 | Angular Series Video | X | [Angular 6 Tutorial | codedamn](https://www.youtube.com/watch?v=UoVytwPk3iA&list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) |
+| 35 | Create your first website using Angular | X | [Create your first website using Angular Series](https://www.youtube.com/playlist?list=PLY7EDLM5qnl47r52Rf3h4AEq9TRooTgo2) |
+| 36 | Ecommerce App - Angular 9, NodeJs And MySQL | X | [Ecommerce App - Angular 9, NodeJs And MySQL ](https://www.youtube.com/playlist?list=PLsjmv9aDmNDAN5adZxbGTlQHlgU2je7KE) |
 
 
 ### Know React Concepts for Level Up
