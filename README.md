@@ -1,4 +1,4 @@
-# my-handbook
+# My handbook
 Learning
 ## Table of Contents
 - [ ] JavaScript
@@ -8,11 +8,75 @@ Learning
 - [ ] Others
 - [ ] Project
 
-**Mission - 2020**
+**Mission - 2021**
 - [ ] React
 - [ ] Angular
 - [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
 - [ ] Style Guide (Angular, HTML/CSS)
+
+### Angular Learning Path in 2021
+
+**Fundamentals**
+- [x] Angular CLI
+- [x] NgModules
+- [x] Components (Class, Template, Metadata)
+- [ ] Template Syntax (Interpolation, Property Binding, Event Binding, Two way Binding, Pipes, Template Reference Variables)
+- [ ] Directives (Components, Stuctural - ngIf, ngSwitch, ngFor, Attribute - ngClass, ngStyle)
+- [ ] Components Styling (Class Binding, Style Binding)
+- [ ] Component Interraction (Input, Output)
+- [ ] Component Lifecyle Methods
+
+**Advanced Topics**
+- [ ] Services (Depedency Injection, Providing Services)
+- [ ] Observables (Creating Observables, Subscribing to Observables, Executing Observables, Disposing Observables, Operators)
+- [ ] HTTP Client (HttpClient, GET, POST, PUT & DELETE, Typed Response, Error Handling, Interceptors)
+- [ ] Forms 
+- [ ] Template Driven Forms (FormsModule, NgForm, NgModel, NgModelGroup, Tracking State & Validity, Validation & Error Messages, ngSubmit)
+- [ ] Reactive Forms (ReactiveFormsModule, FormControl, FormGroup, setValue & patchValue, FormBuilder Service, Validator Functions, FormArray, ngSubmit )
+- [ ] Routing (RouterModule, Configuring Routes, RouterOutlet, routerLink, Wildcard Routes, Redirecting Routes, Route Parameters, Nested Routes, Relative Paths, Lazy Loading Routes, Route Guards)
+- [ ] Animations
+
+**Ecosystem**
+- [ ] State Management (ngRx)
+- [ ] UI Library (Angular Material)
+- [ ] Server Side Rendering (Angular Universal)
+- [ ] Testing (Jasmine & Karma, Protractor)
+- [ ] Miscellaneous (i18n, Accessibility)
+
+
+
+### React Learning Path in 2021
+
+**Fundamentals**
+- [x] Create React App
+- [x] Function Components
+- [x] Class Components
+- [x] JSX
+- [x] Props and State
+- [ ] useState and useEffect
+- [ ] setState and Component Lifecyle Methods
+- [x] Conditional Rendering
+- [x] Lists and Keys
+- [x] Building Simple Forms
+
+**Advanced Topics**
+- [ ] Context (which solves the problem of prop drilling you will then come across higher order components)
+- [ ] Higher Order Components
+- [ ] Render Props
+- [ ] Refs
+- [ ] Error Boundaries
+- [ ] Portals
+- [x] HTTP Request (GET, POST, DELETE, PUT)
+- [ ] Hooks (useContext, useReducer, useRef, useMemo, userCallback, Custom Hooks)
+
+**Ecosystem**
+- [ ] State Management (Redux/Mobx, Apollo, graphQL)
+- [x] Routing (React Router)
+- [ ] Styling (Styled Components/Emotion, Tailwind CSS, Chakra UI / Materail UI , Ant Design )
+- [ ] Forms (Formik, React Hook Form)
+- [ ] Testing (Jest + React Testing Library, Cypress)
+- [ ] Misc (TypeScript, StoryBook, React i18Next, Firebase, Practical React Libraries)
+- [ ] Next Steps (Gatsby, Next.js, React Native) 
 
 
 ### Know JavaScript Concepts for Level Up
@@ -116,40 +180,6 @@ Learning
 | 12 | React Bootstrap City Guide App | X | [Learn React](https://www.youtube.com/playlist?list=PL6jnTQwFvrdaIWZgF4r4my4kFqGjatO6X) |
 
 
-
-
-### React Learning Path in 2020
-
-**Fundamentals**
-- [x] Create React App
-- [x] Function Components
-- [x] Class Components
-- [x] JSX
-- [x] Props and State
-- [ ] useState and useEffect
-- [ ] setState and Component Lifecyle Methods
-- [x] Conditional Rendering
-- [x] Lists and Keys
-- [x] Building Simple Forms
-
-**Advanced Topics**
-- [ ] Context (which solves the problem of prop drilling you will then come across higher order components)
-- [ ] Higher Order Components
-- [ ] Render Props
-- [ ] Refs
-- [ ] Error Boundaries
-- [ ] Portals
-- [x] HTTP Request (GET, POST, DELETE, PUT)
-- [ ] Hooks (useContext, useReducer, useRef, useMemo, userCallback, Custom Hooks)
-
-**Ecosystem**
-- [ ] State Management (Redux/Mobx, Apollo, graphQL)
-- [x] Routing (React Router)
-- [ ] Styling (Styled Components/Emotion, Tailwind CSS, Chakra UI / Materail UI , Ant Design )
-- [ ] Forms (Formik, React Hook Form)
-- [ ] Testing (Jest + React Testing Library, Cypress)
-- [ ] Misc (TypeScript, StoryBook, React i18Next, Firebase, Practical React Libraries)
-- [ ] Next Steps (Gatsby, Next.js, React Native) 
 
 
 ### Know Others Concepts for Level Up
