@@ -27,7 +27,7 @@ Learning
 - [ ] Component Lifecyle Methods
 
 **Advanced Topics**
-- [ ] Services (Depedency Injection, Providing Services)
+- [x] Services (Depedency Injection, Providing Services)
 - [ ] Observables (Creating Observables, Subscribing to Observables, Executing Observables, Disposing Observables, Operators)
 - [ ] HTTP Client (HttpClient, GET, POST, PUT & DELETE, Typed Response, Error Handling, Interceptors)
 - [ ] Forms 
