@@ -14,6 +14,48 @@ Learning
 - [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
 - [ ] Style Guide (Angular, HTML/CSS)
 
+### Modern JavaScript Learning Path in 2021
+
+**Fundamentals**
+- [x] Running JavaScript (script tag, Browser console, Link external file)
+- [x] Variables (Declarations - var, let, const. Scope - Global, Function, Block. Hoisting)
+- [x] Data Types and Data Stuctures (Primitive types - undefined, boolean, number, bigInt, string, symbol. null, object)
+- [ ] Data Stuctures (array, map/weak map, set/weak set, date)
+- [ ] Type Conversion (Explicity Conversion, Implicit Conversion)
+- [ ] Equality(== vs ===)
+- [ ] Loops (while, do...while, for, break/continue, for...in, for...of)
+- [ ] Control Flow (if...else, switch, try/catch)
+- [ ] Expressions & Operation (Assignment Operators,Arithmetic Operators,Logical Operators,Conditional Operators,Comparison Operators,Relational Operators,Bitwise Operators,String Operators,Comma Operators,Unary Operators )
+- [ ] Functions (Function Declarations, Function Expressions, Calling Functions, Parameters & Arguments, Scope, Arrow Function)
+
+**Advanced Topics**
+- [] Advanced Scope
+- [] Closure
+- [] Currying
+- [] this (Implicit Binding, Explicit Binding, new Binding, Lexical Binding, Default Binding)
+- [] Prototype
+- [] Prototypal Inhertiance
+- [] Class
+- [] Iterators
+- [] Generators
+- [] Event Loop
+- [] Asynchronous JavaScript (setTimeout, setInterval, callbacks, Promises, async await)
+- [] Module System (CJS, ESM, Import/Export, Default and Named Exports)
+
+**Web APIs**
+- [] DOM
+- [] XHR & Fetch
+- [] Storage
+- [] Video and Audio
+- [] Drawing Graphics
+
+**Tooling & Misc**
+- [] Linters (eslint)
+- [] Code Formatters (Prettier)
+- [] Bundlers (Webpack, Rollup, Parcle)
+- [] TypeScript
+- [] Next Steps
+
 ### Angular Learning Path in 2021
 
 **Fundamentals**
