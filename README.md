@@ -29,32 +29,32 @@ Learning
 - [ ] Functions (Function Declarations, Function Expressions, Calling Functions, Parameters & Arguments, Scope, Arrow Function)
 
 **Advanced Topics**
-- [] Advanced Scope
-- [] Closure
-- [] Currying
-- [] this (Implicit Binding, Explicit Binding, new Binding, Lexical Binding, Default Binding)
-- [] Prototype
-- [] Prototypal Inhertiance
-- [] Class
-- [] Iterators
-- [] Generators
-- [] Event Loop
-- [] Asynchronous JavaScript (setTimeout, setInterval, callbacks, Promises, async await)
-- [] Module System (CJS, ESM, Import/Export, Default and Named Exports)
+- [ ] Advanced Scope
+- [ ] Closure
+- [ ] Currying
+- [ ] this (Implicit Binding, Explicit Binding, new Binding, Lexical Binding, Default Binding)
+- [ ] Prototype
+- [ ] Prototypal Inhertiance
+- [ ] Class
+- [ ] Iterators
+- [ ] Generators
+- [ ] Event Loop
+- [ ] Asynchronous JavaScript (setTimeout, setInterval, callbacks, Promises, async await)
+- [ ] Module System (CJS, ESM, Import/Export, Default and Named Exports)
 
 **Web APIs**
-- [] DOM
-- [] XHR & Fetch
-- [] Storage
-- [] Video and Audio
-- [] Drawing Graphics
+- [ ] DOM
+- [ ] XHR & Fetch
+- [ ] Storage
+- [ ] Video and Audio
+- [ ] Drawing Graphics
 
 **Tooling & Misc**
-- [] Linters (eslint)
-- [] Code Formatters (Prettier)
-- [] Bundlers (Webpack, Rollup, Parcle)
-- [] TypeScript
-- [] Next Steps
+- [ ] Linters (eslint)
+- [ ] Code Formatters (Prettier)
+- [ ] Bundlers (Webpack, Rollup, Parcle)
+- [ ] TypeScript
+- [ ] Next Steps
 
 ### Angular Learning Path in 2021
 
@@ -244,10 +244,6 @@ Learning
 | 14 | Full Stack React & LoopBack | X| [Full Stack React & LoopBack](https://www.youtube.com/watch?v=Mx-cywTNy8s&t=13s)|
 | 15 | Build and Publish a Custom React Hook Package on npm | X| [Build and Publish](https://www.youtube.com/watch?v=mWCrzUGkGKQ&feature=youtu.be&app=desktop)|
 | 16 | Building a RESTful API with Node.js | X| [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)|
-
-
-
-
 
 
 ### Project for Level Up
