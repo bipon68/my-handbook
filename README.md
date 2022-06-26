@@ -8,13 +8,13 @@ Learning
 - [ ] Others
 - [ ] Project
 
-**Mission - 2021**
+**Mission - 2022**
 - [ ] React
 - [ ] Angular
 - [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
 - [ ] Style Guide (Angular, HTML/CSS)
 
-### Modern JavaScript Learning Path in 2021
+### Modern JavaScript Learning Path in 2022
 
 **Fundamentals**
 - [x] Running JavaScript (script tag, Browser console, Link external file)
@@ -56,7 +56,7 @@ Learning
 - [ ] TypeScript
 - [ ] Next Steps
 
-### Angular Learning Path in 2021
+### Angular Learning Path in 2022
 
 **Fundamentals**
 - [x] Angular CLI
@@ -87,7 +87,7 @@ Learning
 
 
 
-### React Learning Path in 2021
+### React Learning Path in 2022
 
 **Fundamentals**
 - [x] Create React App
